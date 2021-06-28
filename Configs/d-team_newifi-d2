@@ -61,3 +61,4 @@ CONFIG_PACKAGE_luci-ssl-openssl=y
 # Other Appliciations
 CONFIG_PACKAGE_wpad=y
 CONFIG_PACKAGE_iperf3=y
+CONFIG_PACKAGE_luci-app-ipsec-virtuald=y
